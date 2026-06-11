@@ -1,6 +1,5 @@
 # Pandas Program: Create and Display a DataFrame with Custom Index Labels
-### NAME: DODLA SUSMITHA
-### REGISTER NUMBER:212224110016
+
 ## 🎯 Aim
 
 To create and display a **DataFrame** using the **Pandas** library in Python from a given dictionary, and apply specific index labels to the rows.
